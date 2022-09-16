@@ -1,6 +1,8 @@
 # Ignore all files...
 *
 
+.idea
+
 # ...except
 !@types
 !src

@@ -1,8 +1,4 @@
 {
-  "jsxBracketSameLine": false,
-  "printWidth": 120,
-  "proseWrap": "preserve",
-  "useTabs": false,
    "trailingComma": "none",
    "tabWidth": 3,
    "semi": false,
